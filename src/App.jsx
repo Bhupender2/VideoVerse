@@ -1,6 +1,6 @@
 function App() {
   return (
-    <p className="text-rose-600 text-xl ">
+    <p className=" text-xl text-blue-500 ">
       Click on the Vite and React logos to learn more
     </p>
   );
